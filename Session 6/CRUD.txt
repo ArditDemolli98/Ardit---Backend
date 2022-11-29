@@ -1,0 +1,6 @@
+CRUD
+
+C - create - post
+R - read - get
+U - update - put
+D - delete - delete
